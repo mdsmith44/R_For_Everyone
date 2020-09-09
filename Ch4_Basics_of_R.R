@@ -211,3 +211,4 @@ z %>% is.na %>% sum
 z %>% mean(na.rm=TRUE)
 
 #Pipes are used extensively in modern packages
+#especially after popularized by dplyr
